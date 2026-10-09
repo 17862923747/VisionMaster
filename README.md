@@ -17,7 +17,9 @@ VisionMaster 是一个面向工业检测、识别、定位与自动化集成场�
 - **标定与测量**：像素尺寸标定、坐标转换、几何测量与结果验证。
 - **工业集成**：图像采集、串口 / TCP / UDP 通信、变量运算、条件分支、子流程与结果输出。
 - **离线帮助中心**：内置模块用途、参数说明、推荐流程和使用提示，可脱离网络查看。
-- **跨平台架构**：基于 Qt 6 与 CMake 构建，面向 Windows、Linux 及国产化系统部署场景。
+- **跨平台架构**：基于 Qt 6 与 CMake 构建，已经可以成功在 Windows、Linux 及国产化系统跨平台部署，后续计划拓展智能相机的嵌入式平台。
+![Uploading e7d1a0a82eb2a7520ba4c96b32315414.png…]()
+
 
 ## 功能展示
 
@@ -27,6 +29,7 @@ VisionMaster 是一个面向工业检测、识别、定位与自动化集成场�
 ### 字符缺陷检测
 <img width="1919" height="1032" alt="6bfbf6272293fcfbfe2912850170eac5" src="https://github.com/user-attachments/assets/8eb8c20c-b17f-43f3-a185-08214202ef20" />
 
+### 轮廓匹配与位置修正
 ![轮廓匹配与位置修正](docs/images/contour-matching.png)
 
 ### 字符定位与 OCR 识别
