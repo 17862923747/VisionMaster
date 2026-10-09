@@ -21,7 +21,11 @@ VisionMaster 是一个面向工业检测、识别、定位与自动化集成场�
 
 ## 功能展示
 
-### 轮廓匹配与位置修正
+### 2.5D定位引导
+<img width="1919" height="1027" alt="5df044acc712725e26ae752049fb0fde" src="https://github.com/user-attachments/assets/129f0b35-4e0b-4a8b-936f-5087db3650ed" />
+
+### 字符缺陷检测
+<img width="1919" height="1032" alt="6bfbf6272293fcfbfe2912850170eac5" src="https://github.com/user-attachments/assets/8eb8c20c-b17f-43f3-a185-08214202ef20" />
 
 ![轮廓匹配与位置修正](docs/images/contour-matching.png)
 
