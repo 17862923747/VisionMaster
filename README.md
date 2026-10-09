@@ -24,10 +24,12 @@ VisionMaster 是一个面向工业检测、识别、定位与自动化集成场�
 ## 功能展示
 
 ### 2.5D定位引导
-<img width="1919" height="1027" alt="5df044acc712725e26ae752049fb0fde" src="https://github.com/user-attachments/assets/129f0b35-4e0b-4a8b-936f-5087db3650ed" />
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/d286c8c4-c28a-436c-953f-a5b0e2f20a81" />
+
 
 ### 字符缺陷检测
-<img width="1919" height="1032" alt="6bfbf6272293fcfbfe2912850170eac5" src="https://github.com/user-attachments/assets/8eb8c20c-b17f-43f3-a185-08214202ef20" />
+<img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/fe24574b-e946-41be-8b01-29b846a24332" />
+
 
 ### 轮廓匹配与位置修正
 ![轮廓匹配与位置修正](docs/images/contour-matching.png)
@@ -42,7 +44,8 @@ VisionMaster 是一个面向工业检测、识别、定位与自动化集成场�
 
 ### 定位功能模块
 
-![定位模块](docs/images/location-panel.png)
+<img width="300" height="307" alt="image" src="https://github.com/user-attachments/assets/67c93cba-50c7-4d6a-87f7-fecb83169e1f" />
+
 
 ### 边缘学习功能模块
 
