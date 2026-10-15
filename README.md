@@ -36,11 +36,14 @@ VisionMaster 是一个面向工业检测、识别、定位与自动化集成场�
 
 ### 字符定位与 OCR 识别
 
-![字符定位与 OCR 识别](docs/images/ocr-positioning.png)
+<img width="2399" height="1288" alt="image" src="https://github.com/user-attachments/assets/fb06f664-e805-4dbe-88ec-2803a3e2be1e" />
+
 
 ### 深度学习目标检测
 
-![目标检测](docs/images/object-detection.png)
+<img width="2398" height="1285" alt="bbd4935b-de84-4ac3-97cd-605375d1435b" src="https://github.com/user-attachments/assets/a8f4a154-7920-4545-96ed-c0966d03491c" />
+
+
 
 ### 定位功能模块
 
